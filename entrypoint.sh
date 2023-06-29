@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # 设置各变量，WS 路径前缀。(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-WSPATH=${WSPATH:-'argo'}
+WSPATH=${WSPATH:-'nuywiqjue'}
 UUID=${UUID:-'edca174f-9b66-4a27-bcd9-699ce0581885'}
 
 # 安装系统依赖
